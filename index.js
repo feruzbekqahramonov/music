@@ -29,6 +29,7 @@ class Music {
     
     return rotate;
   }
+  alert('Console ga o`ting! Malumot shu yerda')
   
   const rotate = createMusic();
   console.log(rotate);
